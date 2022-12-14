@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GunConfigurator",
+			"Path": "D:\\unrealProject\\GunConfigurator\\project\\GunConfigurator\\Source\\GunConfigurator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GunConfiguratorEditor",
+			"Path": "D:\\unrealProject\\GunConfigurator\\project\\GunConfigurator\\Source\\GunConfiguratorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

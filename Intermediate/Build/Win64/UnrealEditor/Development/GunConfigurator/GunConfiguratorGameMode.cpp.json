@@ -1,0 +1,27 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\source\\gunconfigurator\\gunconfiguratorgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\intermediate\\build\\win64\\gunconfiguratoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\intermediate\\build\\win64\\unrealeditor\\development\\gunconfigurator\\definitions.gunconfigurator.h",
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\source\\gunconfigurator\\gunconfiguratorgamemode.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\intermediate\\build\\win64\\unrealeditor\\inc\\gunconfigurator\\gunconfiguratorgamemode.generated.h",
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\source\\gunconfigurator\\gunconfiguratorcharacter.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\software\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\intermediate\\build\\win64\\unrealeditor\\inc\\gunconfigurator\\gunconfiguratorcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GunConfigurator.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\GunConfiguratorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\GunConfigurator.cpp.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\GunConfiguratorCharacter.cpp.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\GunConfiguratorGameMode.cpp.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\GunConfigurator.init.gen.cpp.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\GunConfiguratorCharacter.gen.cpp.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\GunConfiguratorGameMode.gen.cpp.obj"
+"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\Default.rc2.res"
+/OUT:"D:\unrealProject\GunConfigurator\project\GunConfigurator\Intermediate\Build\Win64\UnrealEditor\Development\GunConfigurator\UnrealEditor-GunConfigurator.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\source\\gunconfigurator\\gunconfigurator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\intermediate\\build\\win64\\gunconfiguratoreditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\intermediate\\build\\win64\\unrealeditor\\development\\gunconfigurator\\definitions.gunconfigurator.h",
+            "d:\\unrealproject\\gunconfigurator\\project\\gunconfigurator\\source\\gunconfigurator\\gunconfigurator.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
